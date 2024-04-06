@@ -1,4 +1,4 @@
-<a href="pannacollege.org"><img src="./assets/images/mylogo.jpeg" width="75"/>
+<a href="https://sites.google.com/pannacollege.org/pannacollege/home"><img src="./assets/images/mylogo.jpeg" width="75"/>
 # Run-Buddy (Lesson-1.2)
 
 ## သင်ခန်းစာအချိန်ဇယား
@@ -58,5 +58,5 @@
     3. Source Order: css-က အပေါ်ကနေ အောက်ကိုဖတ်တာဖြစ်လို့ ပထမ```<h1>```မှာ အနီရောင်လုပ်ခဲ့သော်လဲ ဒုတိယ```<h1>```မှာ အစိမ်းရောင်လုပ်မယ်ဆိုရင် အစိမ်းရောင်ပဲ ဖြစ်သွားမှာပါ။
 
 <br>
-<a href="pannacollege.org"><img src="./assets/images/mylogo.jpeg" width="75"/></a><br>
-<a href="pannacollege.org">© PannaCollege</a>
+<a href="https://sites.google.com/pannacollege.org/pannacollege/home"><img src="./assets/images/mylogo.jpeg" width="75"/></a><br>
+<a href="https://sites.google.com/pannacollege.org/pannacollege/home">© PannaCollege</a>

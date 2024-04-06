@@ -1,4 +1,4 @@
-<a href="pannacollege.org"><img src="./assets/images/mylogo.jpeg" width="75"/>
+<a href="https://sites.google.com/pannacollege.org/pannacollege/home"><img src="./assets/images/mylogo.jpeg" width="75"/>
 # Run-Buddy (Lesson-1.1)
 
 ## သင်ခန်းစာအချိန်ဇယား
@@ -35,5 +35,5 @@
 ![box-layout](./assets/images/750-box-layout.jpg)
 
 <br>
-<a href="pannacollege.org"><img src="./assets/images/mylogo.jpeg" width="75"/></a><br>
-<a href="pannacollege.org">© PannaCollege</a>
+<a href="https://sites.google.com/pannacollege.org/pannacollege/home"><img src="./assets/images/mylogo.jpeg" width="75"/></a><br>
+<a href="https://sites.google.com/pannacollege.org/pannacollege/home">© PannaCollege</a>
