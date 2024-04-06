@@ -1,4 +1,4 @@
-# Run-Buddy (Lesson-1)
+# Run-Buddy (Lesson-1.1)
 
 ## သင်ခန်းစာအချိန်ဇယား
 - Virtual Class-1 သင်သောအခါ
