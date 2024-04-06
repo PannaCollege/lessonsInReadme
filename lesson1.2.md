@@ -1,3 +1,4 @@
+<a href="pannacollege.org"><img src="./assets/images/mylogo.jpeg" width="75"/>
 # Run-Buddy (Lesson-1.2)
 
 ## သင်ခန်းစာအချိန်ဇယား
@@ -56,7 +57,6 @@
     2. Specificity: ```<h1>```ဆိုရင် အားလုံးသော```<h1>```တွေနဲ့ဆိုင်ပြီး  ```header <h1>```ဆိုရင်တော့ headerအောက်က ```<h1>```နဲ့ပဲသက်ဆိုင်ပါတယ်။
     3. Source Order: css-က အပေါ်ကနေ အောက်ကိုဖတ်တာဖြစ်လို့ ပထမ```<h1>```မှာ အနီရောင်လုပ်ခဲ့သော်လဲ ဒုတိယ```<h1>```မှာ အစိမ်းရောင်လုပ်မယ်ဆိုရင် အစိမ်းရောင်ပဲ ဖြစ်သွားမှာပါ။
 
-
-
-
-© PannaCollege
+<br>
+<a href="pannacollege.org"><img src="./assets/images/mylogo.jpeg" width="75"/></a><br>
+<a href="pannacollege.org">© PannaCollege</a>
