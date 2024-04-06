@@ -28,6 +28,8 @@
 
 ## ပုံစံငယ်
 ![mockUp](./assets/images/800-html-screenshot.jpg)<br><hr>
+
+## သင်ခန်းစာမှ ပုံစံငယ်အချို့
 ![box-diabram](./assets/images/725-box-diagram.jpg)<br><hr>
 ![box-layout](./assets/images/750-box-layout.jpg)
 
