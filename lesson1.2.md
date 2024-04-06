@@ -29,8 +29,32 @@
 ## ပုံစံငယ်
 ![mockUp](./assets/images/025-step-2-complete.jpg)<br><hr>
 
+## သင်ခန်းစာမှ code အချို့
+- href="#what-we-do" လို့ <a>မှာရေးလိုက်ရင် လက်ရှိစာမျက်မှာထဲက စာပိုဒ်တစ်ခုမှာ id="what-we-do"လို့ ထည့်လိုက်တာနဲ့ အဲ့ဒီစာပိုဒ်ကို ရောက်သွားမှာပါ။
+- href="/" လို့ရေးလိုက်ရင် ရည်ညွှန်းဖိုင်မပါလို့ index.html ဖိုင်ပဲ ပွင့်လာမှာပါ။
+- ```<a>```နဲ့ text-decoration တို့ရဲ့အလုပ်လုပ်ပုံ
+- float property နဲ့ block or inline element တို့အကြောင်း
+- ```*```universal selector နဲ့ margin: 0, padding: 0;အကြောင်း
+- HTML entity အကြောင်း၊ ဥပမာ ```&lt;< &gt;> &copy;© &hearts;♥```
+- body width 100% ရှိတယ်၊ နောက်တစ်နေရာရာမှာ padding ဘယ်ညာကို ထပ်ယူမယ်ဆိုရင် 100% ကိုကျော်သွားပါပြီ၊ ဒီအခါမှာ ​```*```ထဲမှာ box-sizing: border-box; လို့ထည့်ရေးပေးလိုက်ရင် parentရဲ့ 100% မကျော်ဘဲတွက်သွားမှာပါ။
+- box-sizing:မှာ content-size နဲ့ border-box ဆိုပြီးနှစ်မျိုးရှိတယ်၊ content-size မှာတော့ border နဲ့ padding ကိုထပ်ပြီးထည့်တွက်ရမှာပါ။ border-box-ကတော့ border နဲ့ padding-ကို parent-ထဲထည့်ပြီးတွက်သွားမှာပါ။
+
 ## သင်ခန်းစာမှ ပုံစံငယ်အချို့
-![box-diabram](./assets/images/725-box-diagram.jpg)<br><hr>
-![box-layout](./assets/images/750-box-layout.jpg)
+![css-syntax](./assets/images/300-css-syntax.jpg)<br><hr>
+![box-model](./assets/images/103-box-model.jpg)<br><hr>
+
+## မှတ်ချက်
+* HTML-နဲ့ ရိုးရှင်းပြီး သပ်ရပ်တဲ့ ဒီဇိုင်းကို ရေးပါ။ ပြီးမှ CSS-နဲ့ လိုအပ်တာတွေကို ပြင်ပါ။
+* CSS-ကိုရေးတဲ့အခါ inline style-ဆိုတဲ့ HTML ကုတ်ထဲမှာပဲ 
+    1. ```<h1 style="color: red">```
+    2. ```<style> h1{color: red;} </style>``` နှစ်မျိုးရှိတယ်။
+    3. သီးသန့် style.css ဖိုင်တစ်ခုခွဲပြီးရေးမယ်၊ ပြီးမှ HTML-ထဲက ```<head>```ထဲမှာ link-css နဲ့တွဲပေးလိုက်ပါ။ ဒီးနည်းက ပိုပြီးသပ်ရပ်သန့်ရှင်းပြီး စနစ်ကျပါတယ်။
+* Cascade ဆိုတာ အောက်ပါ(၃)ချက်ကိုလုပ်ဆောင်ပါတယ်
+    1. Importance: !important-ကို property-declaration အဆုံးမှာထည့်သုံးသည်
+    2. Specificity: ```<h1>```ဆိုရင် အားလုံးသော```<h1>```တွေနဲ့ဆိုင်ပြီး  ```header <h1>```ဆိုရင်တော့ headerအောက်က ```<h1>```နဲ့ပဲသက်ဆိုင်ပါတယ်။
+    3. Source Order: css-က အပေါ်ကနေ အောက်ကိုဖတ်တာဖြစ်လို့ ပထမ```<h1>```မှာ အနီရောင်လုပ်ခဲ့သော်လဲ ဒုတိယ```<h1>```မှာ အစိမ်းရောင်လုပ်မယ်ဆိုရင် အစိမ်းရောင်ပဲ ဖြစ်သွားမှာပါ။
+
+
+
 
 © PannaCollege
