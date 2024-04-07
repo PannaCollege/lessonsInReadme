@@ -1,9 +1,10 @@
 <a href="https://sites.google.com/pannacollege.org/pannacollege/home"><img src="./assets/images/mylogo.jpeg" width="75"/>
-# Run-Buddy (Lesson-1.2)
+
+<h1 style="color: brown;">Run-Buddy (Lesson-1.2)</h1>
 
 ## သင်ခန်းစာအချိန်ဇယား
 - Virtual Class-1 သင်သောအခါ
-    1. 01-HTML
+    1. 01-HTML 
     2. 02-Attributes
     3. Git Guide လေ့လာပြီးဖြစ်ရမည်
 - Virtual Class-2 သင်သောအခါ         
